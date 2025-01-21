@@ -15,6 +15,18 @@ This project is a clone of Netflix's landing page, designed to replicate the loo
 
 ---
 
+## Previews
+
+![Netflix Landing Page Clone Screenshot](assets/previmages/prev1.png "Netflix Clone Screenshot")
+![Netflix Landing Page Clone Screenshot](assets/previmages/prev2.png "Netflix Clone Screenshot")
+![Netflix Landing Page Clone Screenshot](assets/previmages/prev3.png "Netflix Clone Screenshot")
+![Netflix Landing Page Clone Screenshot](assets/previmages/prev4.png "Netflix Clone Screenshot")
+![Netflix Landing Page Clone Screenshot](assets/previmages/prev5.png "Netflix Clone Screenshot")
+![Netflix Landing Page Clone Screenshot](assets/previmages/prev6.png "Netflix Clone Screenshot")
+![Netflix Landing Page Clone Screenshot](assets/previmages/prev7.png "Netflix Clone Screenshot")
+
+---
+
 ## Requirements
 
 The project currently uses:
